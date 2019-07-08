@@ -21,7 +21,7 @@ import io.swagger.annotations.ApiResponse;
 import io.swagger.annotations.ApiResponses;
 
 @RestController
-@Api(value = "Transaction", description = "Transaction REST API 1")
+@Api(value = "Transaction", description = "Transaction REST API 3")
 public class TransactionController {
 	
 	private TransactionService transactionService;
